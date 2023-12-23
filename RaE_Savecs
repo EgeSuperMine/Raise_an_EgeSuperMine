@@ -1,0 +1,7 @@
+// Raise an EgeSuperMine Save Modules.
+// Raise an EgeSuperMine BETA 1.0
+Money;
+Health;
+Hunger;
+AntiDeaths;
+GameDifficulty;
