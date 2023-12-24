@@ -1,3 +1,5 @@
+[i] Discontinued. (kinda)
+
 Raise an EgeSuperMine Save Modules.
 
 Raise an EgeSuperMine BETA 1.0
